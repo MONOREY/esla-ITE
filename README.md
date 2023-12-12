@@ -2,42 +2,77 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title style="color:green;">ITE103HTML(MORNING)</title>
+<title>Assignment 3 Design Page</title>
+<style>
+table, th, td {
+  border: 1px solid blue;
+   border-collapse:collapse;
+}
+th, td {
+  background-color:lightgray;
+}
+th, td {
+  padding: 10px;
+}
+</style>
+</head>
 <body>
-<h1 style="color:blue;">THE UNIVERSITY OF CAMBODIA</h1>
-<h2 style="color:pink;">COLLEGE OF SCIENCE TECHNOLOGY</h2>
-<a href="https://cost.uc.edu.kh">Visit College Science Technology</a>
-<P style="color:orange;">Visit College Science Technology
-Dean's Message Information On behalf of faculty members and staff of the College of Science and Technology I would like to welcome you to the College of Science and Technology at The University of Cambodia. The College of Science and Technology (CoST) was established at the same time as the The University of Cambodia in 2013. The College have been developed and transforms with the rise of Science and technology in the 21st century. We drive and inspire our students to value creativity and innovation in the information technology world. The college offers undergraduate and graduate programs such as Computer Science, Information Technology and Electronics and Telecommunication. Our programs prepare students for careers in these disciplines as scientific and ICT professional. In order to meet increasing demand for graduates in computer science and information technology, we have: developed robust and modern curricula; established sophisticated facilities; and hired high qual...,and this college we will study of HTML.I can introduce you some webside to learn html</p>
-<a href="https://youtu.be/ZRe1zac2wDA;">introduce of html</a>
-<br>
-<a href="https://youtu.be/SlBxJ6-HBqc;">html basic</a>
-<br>
-<a href="https://youtu.be/Q2qnXBF59Xg;">html element</a>
-<br>
-<a href="https://youtu.be/QvvLI8AMsmM;">html attribute</a>
-<br>
-<a href="https://youtu.be/uN_v2FKb4BQ;">html heading<a/>
-<br>
-<a href="https://youtu.be/vuSNe563Y7Y;">html paragrap</a>
-<br>
-<a href="https://youtu.be/vuSNe563Y7Y;">html style</a>
-<br>
-<a href="https://youtu.be/vuSNe563Y7Y;">html text formating</a>
-<br>
-<a href="https://youtu.be/pXCYmGbwhYU;">html quotation</a>
-<br>
-<a href="https://youtu.be/pXCYmGbwhYU;">html comment</a>
-<br>
-<a href="https://youtu.be/8JVbActeI3I;">html color</a>
-<br>
-<a href="https://youtu.be/whQ-dJvWfF4;">html stye css</a>
-<br>
-<p style="color:red;">SOME PHOTOS OF STUDYING HTML AT COLLEGE OF SCIENCE IN THE UNIVERSITY OF CAMBODIA.</p>
-<img src="C:\Users\ASUS\Desktop\photo_2023-11-03_09-54-19.jpg" width="460" high="260">
-<img src="C:\Users\ASUS\Desktop\photo_2023-11-03_09-54-19 (2).jpg" width="460" high="260"><br>
-<img src="C:\Users\ASUS\Desktop\photo_2023-11-03_09-54-19 (3).jpg" width="460" high="260">
-<img src="C:\Users\ASUS\Desktop\DOG.jpg"width="460" high="260">
+<h1 style="color:white;background-color:darkblue;"><marquee behavior="scroll" direction="right" scrollamount="6"><img src="C:\Users\ASUS\Desktop\logo cost.jpg" alt="Assigment 4" style="width:130px;height:50px;">ស្វាគមន៍!  IT Women in College Science and Technology</marquee></h1>
+<img src="C:\Users\ASUS\Desktop\img ass\photo_2023-11-03_09-54-11.jpg" width="460" height="440">
+<img src="C:\Users\ASUS\Desktop\img ass\lap 1.jpg" width="460" height="440">
+<img src="C:\Users\ASUS\Desktop\img ass\lap 2.jpg" width="460" height="440">
+<p>សូមសា្វគមន៍មកកាន់មហាវិទ្យាល័យវិទ្យាសាស្រ្ត​ និងបច្ចេកវិទ្យានៃសាកលវិទ្យាល័យកម្ពុជា។ សម្រាប់ប្អូនៗសិស្សានុសិស្ស ដែលមានបំណងចង់បន្តការសិក្សាថ្នាក់បរិញ្ញាប័ត្រ និងថ្នាក់បរិញ្ញាប័ត្ររង។ សូមចុះឈ្មោះជាមួយយើងឥឡូវនេះ ឬ មកកាន់សាកលវិទ្យាល័យកម្ពុជាផ្ទាល់ក៏បាន។</p>
+<p>Welcome to College of Science and Technology of The University of Cambodia.For everyone who whishes to pursue for any AA and BA degree of the study programs,please register now or visit the campus of the university Cambodia.</p>
+<h1 style="color:white;background-color:darkblue;" style="width:130px height:50px;">Majors Offering in College of Science and Technology</h1>
+<table style="width:100%; background-color:white;">
+  <tr style="height:60px">
+    <th style="width:50%">Majors</th>
+    <th style="width:60%">Associate Baschelor</th>
+ </tr>
+ <tr>
+    <td>Computer Science(Offering)</td>
+    <td>AA and BA</td>
+    <td>MS and Photoshop</td>
+ </tr>
+ <tr>
+    <td>Information Technology(Offering)</td>
+    <td>BA</td>
+    <td>MS</td>
+ </tr>
+ <tr>
+    <td>Electronics and Telecommunications(Notyet Offering)</td>
+    <td>BA</td>
+    <td>MS</td>
+ </tr>
+</table>
+<h1 style="color:white;background-color:darkblue;" style="width:130px height:50px;">College Science and Technology Computer lap</h1>
 </body>
-
+<img src="C:\Users\ASUS\Desktop\lap 3.jpg" width="650" height="440">
+<img src="C:\Users\ASUS\Desktop\lap 4.jpg" width="650" height="440">
+<img src="C:\Users\ASUS\Desktop\lap 6.jpg" width="650" height="440">
+<img src="C:\Users\ASUS\Desktop\lap 5.jpg" width="650" height="440">
+<h3 style="color:black">Computer Labs in University of Cambodia</h3>
+<table style="background-color:lightgray; width:100%;">
+  <tr style="80px">
+  <th style="50%">Multimedia Lab</th>
+  <th style="50%">E-learning Lab</th>
+  <th style="50%">Networking Lab</th>
+  <th style="50%">IT-Center Lab</th>
+  </tr>
+  <tr>
+  <td>Graphic Design</td>
+  <td>Graphic Design</td>
+  <td>Networking Design</td>
+  <td>Computer Applications</td>
+  </tr>
+  <tr>
+ <td>Computer Applications</td>
+  <td>Produce video centens</td>
+  </tr>
+  <tr>
+  <td>Mobile Applications</td>
+  </tr>
+  <body>
+<i style ="background-color:Pink;font-size:90">SAN MONOREY</i>
+</body>
 </html>
